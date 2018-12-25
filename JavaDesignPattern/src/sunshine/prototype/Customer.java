@@ -1,6 +1,11 @@
 package sunshine.prototype;
 
-public class Customer implements Cloneable {
+import java.io.*;
+
+/*
+原型模式,实现一个对象的深浅拷贝
+ */
+public class Customer implements Cloneable, Serializable {
     /*
     成员变量
      */
@@ -12,11 +17,11 @@ public class Customer implements Cloneable {
         this.name = name;
     }
 
-    public short getAge() {
+    public int getAge() {
         return age;
     }
 
-    public void setAge(short age) {
+    public void setAge(int age) {
         this.age = age;
     }
 
@@ -29,7 +34,7 @@ public class Customer implements Cloneable {
     }
 
     private String name;
-    private short age;
+    private int age;
     private CustomerPic customerPic;
 
     /*
@@ -51,17 +56,55 @@ public class Customer implements Cloneable {
     }
 
     /*
-        浅拷贝
-         */
-    @Override
-    protected Object clone() throws CloneNotSupportedException {
+        浅拷贝:要继承Cloneable接口
+   */
+   public Customer clone() throws CloneNotSupportedException {
         Object obj = null;
         try{
             obj = super.clone();
-            return (Customer)obj;
+
         }
         catch (CloneNotSupportedException e){
             System.out.println("clone error!");
         }
+        return (Customer)obj;
+    }
+
+    /*
+        深拷贝：要继承Serializable接口
+   */
+    public Customer deepClone() throws CloneNotSupportedException {
+        //write obj to byte
+        ByteArrayOutputStream bao = new ByteArrayOutputStream();
+        ObjectOutputStream oos = null;
+        try {
+            oos = new ObjectOutputStream(bao);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        try {
+            oos.writeObject(this);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        //read obj from byte
+        Customer deepCustomer = null;
+        ByteArrayInputStream bai = new ByteArrayInputStream(bao.toByteArray());
+        ObjectInputStream ois = null;
+        try {
+            ois = new ObjectInputStream(bai);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        try {
+            deepCustomer =  (Customer)ois.readObject();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+
+        return deepCustomer;
     }
 }

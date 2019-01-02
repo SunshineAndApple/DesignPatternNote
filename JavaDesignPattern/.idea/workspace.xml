@@ -26,76 +26,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sunshine/observer/ISalesOfficeSubject.java">
+        <entry file="file://$PROJECT_DIR$/src/test/sunshine/observer/SalesUitlSubjectTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sunshine/observer/SalesZhangSanSubject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#244#263#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/sunshine/observer/SalesZhangSanSubjectTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+            <state relative-caret-position="386">
+              <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sunshine/observer/observer.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+        <entry file="file://$PROJECT_DIR$/src/sunshine/observer/SalesUitlSubject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sunshine/observer/CustomerLiSiSuject.java">
+        <entry file="file://$PROJECT_DIR$/src/sunshine/observer/CustomerUtilObserver.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-              <folding>
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sunshine/observer/CustomerWangWuSubject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-              </folding>
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -148,13 +100,17 @@
         <option value="$PROJECT_DIR$/src/sunshine/observer/CustomerWangWuSubject.java" />
         <option value="$PROJECT_DIR$/src/test/sunshine/observer/SalesZhangSanSubjectTest.java" />
         <option value="$PROJECT_DIR$/src/sunshine/observer/observer.md" />
+        <option value="$PROJECT_DIR$/src/sunshine/observer/SalesUtilSubject.java" />
+        <option value="$PROJECT_DIR$/src/sunshine/observer/CustomerUtilObserver.java" />
+        <option value="$PROJECT_DIR$/src/test/sunshine/observer/SalesUitlSubjectTest.java" />
+        <option value="$PROJECT_DIR$/src/sunshine/observer/SalesUitlSubject.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="262" />
     <option name="y" value="31" />
-    <option name="width" value="1341" />
+    <option name="width" value="1342" />
     <option name="height" value="898" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -214,11 +170,11 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="sunshine.prototype" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="sunshine.prototype" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\github\DesignPattern\JavaDesignPattern\src\sunshine\singleton" />
@@ -236,28 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SalesZhangSanSubjectTest.testNotifyCustomer">
-    <configuration name="CustomerTest.clone" type="ArquillianJUnit" factoryName="" temporary="true" nameIsGenerated="true">
-      <module name="JavaDesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sunshine.prototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="PACKAGE_NAME" value="sunshine.prototype" />
-      <option name="MAIN_CLASS_NAME" value="sunshine.prototype.CustomerTest" />
-      <option name="METHOD_NAME" value="clone" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SalesUitlSubjectTest.testNotyfyCustomer">
     <configuration name="CustomerTest.testClone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaDesignPattern" />
       <extension name="coverage">
@@ -269,6 +204,22 @@
       <option name="PACKAGE_NAME" value="test.sunshine.prototype" />
       <option name="MAIN_CLASS_NAME" value="test.sunshine.prototype.CustomerTest" />
       <option name="METHOD_NAME" value="testClone" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesUitlSubjectTest.testNotyfyCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.sunshine.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.sunshine.observer" />
+      <option name="MAIN_CLASS_NAME" value="test.sunshine.observer.SalesUitlSubjectTest" />
+      <option name="METHOD_NAME" value="testNotyfyCustomer" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -324,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SalesUitlSubjectTest.testNotyfyCustomer" />
         <item itemvalue="JUnit.SalesZhangSanSubjectTest.testNotifyCustomer" />
         <item itemvalue="JUnit.WaiterTest.testCreateCoffeeByDirector" />
         <item itemvalue="JUnit.StartTeslaTest.test" />
         <item itemvalue="JUnit.CustomerTest.testClone" />
-        <item itemvalue="Arquillian JUnit.CustomerTest.clone" />
       </list>
     </recent_temporary>
   </component>
@@ -347,20 +298,11 @@
       <workItem from="1545718737164" duration="2257000" />
       <workItem from="1545879746584" duration="104000" />
       <workItem from="1545879875245" duration="8398000" />
-      <workItem from="1546394511019" duration="6307000" />
+      <workItem from="1546394511019" duration="11622000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CustomerTest_testClone - 2018.12.25 at 10h 32m 04s.xml">
-      <configuration name="CustomerTest.testClone" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomerTest_testClone - 2018.12.25 at 10h 56m 48s.xml">
-      <configuration name="CustomerTest.testClone" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomerTest_testClone - 2018.12.25 at 10h 57m 20s.xml">
-      <configuration name="CustomerTest.testClone" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CustomerTest_testClone - 2018.12.25 at 11h 07m 00s.xml">
       <configuration name="CustomerTest.testClone" configurationId="JUnit" />
     </history-entry>
@@ -382,9 +324,18 @@
     <history-entry file="WaiterTest_testCreateCoffeeByDirector - 2018.12.27 at 14h 47m 10s.xml">
       <configuration name="WaiterTest.testCreateCoffeeByDirector" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SalesZhangSanSubjectTest_testNotifyCustomer - 2019.01.02 at 14h 40m 38s.xml">
+      <configuration name="SalesZhangSanSubjectTest.testNotifyCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SalesUitlSubjectTest_testNotyfyCustomer - 2019.01.02 at 16h 11m 46s.xml">
+      <configuration name="SalesUitlSubjectTest.testNotyfyCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SalesUitlSubjectTest_testNotyfyCustomer - 2019.01.02 at 16h 12m 29s.xml">
+      <configuration name="SalesUitlSubjectTest.testNotyfyCustomer" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28141000" />
+    <option name="totallyTimeSpent" value="33456000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,17 +347,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="262" y="31" width="1341" height="898" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21857923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17114915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3385621" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2900336" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,7 +367,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32922733" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -443,6 +394,14 @@
           <line>100</line>
           <properties />
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/sunshine/observer/SalesUitlSubjectTest.java</url>
+          <line>31</line>
+          <properties class="test.sunshine.observer.SalesUitlSubjectTest" method="testNotyfyCustomer">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -700,6 +659,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/sunshine/observer/SalesZhangSanSubjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sunshine/observer/CustomerLiSiSuject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -722,37 +688,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sunshine/observer/SalesZhangSanSubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#244#263#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/sunshine/observer/SalesZhangSanSubjectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sunshine/observer/observer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <first_editor relative-caret-position="288">
+            <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sunshine/observer/SalesZhangSanSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#244#263#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/Java/jdk1.8.0_51/src.zip!/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/Java/jdk1.8.0_51/src.zip!/java/util/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sunshine/observer/SalesUtilSubject">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sunshine/observer/CustomerUtilObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/sunshine/observer/SalesUitlSubjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sunshine/observer/SalesUitlSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
         </state>
       </provider>
     </entry>

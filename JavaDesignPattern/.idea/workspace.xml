@@ -24,35 +24,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/sunshine/observer/SalesUitlSubjectTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sunshine/observer/SalesUitlSubject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sunshine/observer/CustomerUtilObserver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="262" />
     <option name="y" value="31" />
     <option name="width" value="1342" />
@@ -138,13 +110,6 @@
               <item name="JavaDesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sunshine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sunshine" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,14 +263,13 @@
       <workItem from="1545718737164" duration="2257000" />
       <workItem from="1545879746584" duration="104000" />
       <workItem from="1545879875245" duration="8398000" />
-      <workItem from="1546394511019" duration="11622000" />
+      <workItem from="1546394511019" duration="12237000" />
+      <workItem from="1547002112253" duration="595000" />
+      <workItem from="1547455193050" duration="298000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CustomerTest_testClone - 2018.12.25 at 11h 07m 00s.xml">
-      <configuration name="CustomerTest.testClone" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CustomerTest_testClone - 2018.12.25 at 11h 08m 39s.xml">
       <configuration name="CustomerTest.testClone" configurationId="JUnit" />
     </history-entry>
@@ -333,9 +297,12 @@
     <history-entry file="SalesUitlSubjectTest_testNotyfyCustomer - 2019.01.02 at 16h 12m 29s.xml">
       <configuration name="SalesUitlSubjectTest.testNotyfyCustomer" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SalesUitlSubjectTest_testNotyfyCustomer - 2019.01.02 at 16h 13m 32s.xml">
+      <configuration name="SalesUitlSubjectTest.testNotyfyCustomer" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33456000" />
+    <option name="totallyTimeSpent" value="34964000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -347,17 +314,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
+    <frame x="262" y="31" width="1342" height="898" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17114915" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22464898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2900336" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3385621" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -729,27 +695,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sunshine/observer/SalesUtilSubject">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sunshine/observer/CustomerUtilObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sunshine/observer/SalesUtilSubject" />
     <entry file="file://$PROJECT_DIR$/src/test/sunshine/observer/SalesUitlSubjectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
+        <state relative-caret-position="468">
           <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sunshine/observer/SalesUitlSubject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        <state relative-caret-position="198">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sunshine/observer/CustomerUtilObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
